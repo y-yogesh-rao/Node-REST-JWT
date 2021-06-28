@@ -1,0 +1,8 @@
+{
+    "env": {
+        "PORT": 3000,
+        "MONGO_ATLAS_USERNAME": "<USERNAME>",
+        "MONGO_ATLAS_PASSWORD": "<PASSWORD>",
+        "JWT_SECRET_KEY": "<JWT_SECRET>"
+    }
+}
