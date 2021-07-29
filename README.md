@@ -1,4 +1,4 @@
-# Node-REST-JWT-
+# Node-REST-JWT
 Simple Node Application which handles incoming requests of e-commerce site.
 
 Functionalities that it can perform:
